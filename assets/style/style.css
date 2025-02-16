@@ -9,6 +9,8 @@ padding: 0%;
 display: flex;
 
 
+
+
 }
 .perfil{
     
@@ -72,13 +74,17 @@ h6{
     border-radius: 20px;
     width: 100%;
 }
-.habilidades{
+
+.contacto{
     margin: 20px;
 
     background-color: rgb(43, 43, 43);
     border-radius: 20px;
     width: 100%;
+
 }
+
+
 footer{
     display: flex;
     justify-content: center;
@@ -98,5 +104,18 @@ color: rgb(255, 255, 255);
 
 /*datos academicos*/
 
+.datos-academicos{
+    margin: 20px;
+    padding: 1%;
+}
+
+.educacion{
+    border: solid color rgb(14, 14, 14);
+ 
+
+}
+.habilidades{
+    border: solid color rgb(14, 14, 14);
 
 
+}
